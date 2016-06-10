@@ -1,0 +1,6 @@
+C:\Users\gamin_000\Documents\Visual Studio 2015\Projects\ObjectsAndClassesLAB\05_Lab_Nearest3Points\bin\Debug\05_Lab_Nearest3Points.exe.config
+C:\Users\gamin_000\Documents\Visual Studio 2015\Projects\ObjectsAndClassesLAB\05_Lab_Nearest3Points\bin\Debug\05_Lab_Nearest3Points.exe
+C:\Users\gamin_000\Documents\Visual Studio 2015\Projects\ObjectsAndClassesLAB\05_Lab_Nearest3Points\bin\Debug\05_Lab_Nearest3Points.pdb
+C:\Users\gamin_000\Documents\Visual Studio 2015\Projects\ObjectsAndClassesLAB\05_Lab_Nearest3Points\obj\Debug\05_Lab_Nearest3Points.csprojResolveAssemblyReference.cache
+C:\Users\gamin_000\Documents\Visual Studio 2015\Projects\ObjectsAndClassesLAB\05_Lab_Nearest3Points\obj\Debug\05_Lab_Nearest3Points.exe
+C:\Users\gamin_000\Documents\Visual Studio 2015\Projects\ObjectsAndClassesLAB\05_Lab_Nearest3Points\obj\Debug\05_Lab_Nearest3Points.pdb

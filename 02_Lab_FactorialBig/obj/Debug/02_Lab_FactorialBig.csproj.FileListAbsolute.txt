@@ -1,0 +1,6 @@
+c:\users\gamin_000\documents\visual studio 2015\Projects\ObjectsAndClassesLAB\02_Lab_FactorialBig\bin\Debug\02_Lab_FactorialBig.exe.config
+c:\users\gamin_000\documents\visual studio 2015\Projects\ObjectsAndClassesLAB\02_Lab_FactorialBig\bin\Debug\02_Lab_FactorialBig.exe
+c:\users\gamin_000\documents\visual studio 2015\Projects\ObjectsAndClassesLAB\02_Lab_FactorialBig\bin\Debug\02_Lab_FactorialBig.pdb
+c:\users\gamin_000\documents\visual studio 2015\Projects\ObjectsAndClassesLAB\02_Lab_FactorialBig\obj\Debug\02_Lab_FactorialBig.csprojResolveAssemblyReference.cache
+c:\users\gamin_000\documents\visual studio 2015\Projects\ObjectsAndClassesLAB\02_Lab_FactorialBig\obj\Debug\02_Lab_FactorialBig.exe
+c:\users\gamin_000\documents\visual studio 2015\Projects\ObjectsAndClassesLAB\02_Lab_FactorialBig\obj\Debug\02_Lab_FactorialBig.pdb

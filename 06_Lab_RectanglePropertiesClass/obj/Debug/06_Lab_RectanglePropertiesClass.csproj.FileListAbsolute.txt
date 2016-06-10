@@ -1,0 +1,6 @@
+C:\Users\gamin_000\Documents\Visual Studio 2015\Projects\ObjectsAndClassesLAB\06_Lab_RectanglePropertiesClass\bin\Debug\06_Lab_RectanglePropertiesClass.exe.config
+C:\Users\gamin_000\Documents\Visual Studio 2015\Projects\ObjectsAndClassesLAB\06_Lab_RectanglePropertiesClass\bin\Debug\06_Lab_RectanglePropertiesClass.exe
+C:\Users\gamin_000\Documents\Visual Studio 2015\Projects\ObjectsAndClassesLAB\06_Lab_RectanglePropertiesClass\bin\Debug\06_Lab_RectanglePropertiesClass.pdb
+C:\Users\gamin_000\Documents\Visual Studio 2015\Projects\ObjectsAndClassesLAB\06_Lab_RectanglePropertiesClass\obj\Debug\06_Lab_RectanglePropertiesClass.csprojResolveAssemblyReference.cache
+C:\Users\gamin_000\Documents\Visual Studio 2015\Projects\ObjectsAndClassesLAB\06_Lab_RectanglePropertiesClass\obj\Debug\06_Lab_RectanglePropertiesClass.exe
+C:\Users\gamin_000\Documents\Visual Studio 2015\Projects\ObjectsAndClassesLAB\06_Lab_RectanglePropertiesClass\obj\Debug\06_Lab_RectanglePropertiesClass.pdb

@@ -1,0 +1,1 @@
+c:\users\gamin_000\documents\visual studio 2015\Projects\ObjectsAndClassesLAB\04_Lab_CalcPointDistance\bin\Debug\04_Lab_CalcPointDistance.exe.config
